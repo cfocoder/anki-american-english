@@ -156,3 +156,213 @@ words:
     meaning_es: innegable; indudable
     example_en: The evidence is undeniable.
     example_es: La evidencia es innegable.
+
+  - word: know
+    ipa: "/noʊ/"
+    meaning_es: "saber; conocer"
+    example_en: "I know the answer to that question."
+    example_es: "Sé la respuesta a esa pregunta."
+    note: "The k is silent; pronounce it like “no.”"
+
+  - word: knife
+    ipa: "/naɪf/"
+    meaning_es: "cuchillo"
+    example_en: "Use a sharp knife to cut the bread."
+    example_es: "Usa un cuchillo afilado para cortar el pan."
+    note: "The k is silent."
+
+  - word: knee
+    ipa: "/niː/"
+    meaning_es: "rodilla"
+    example_en: "He hurt his knee while running."
+    example_es: "Se lastimó la rodilla mientras corría."
+    note: "The k is silent."
+
+  - word: knock
+    ipa: "/nɑːk/"
+    meaning_es: "tocar la puerta; golpe"
+    example_en: "Please knock before you enter the room."
+    example_es: "Por favor toca antes de entrar al cuarto."
+    note: "The k is silent."
+
+  - word: write
+    ipa: "/raɪt/"
+    meaning_es: "escribir"
+    example_en: "I write notes after every meeting."
+    example_es: "Escribo notas después de cada reunión."
+    note: "The w is silent."
+
+  - word: wrong
+    ipa: "/rɔːŋ/"
+    meaning_es: "incorrecto; equivocado"
+    example_en: "That number is wrong."
+    example_es: "Ese número está incorrecto."
+    note: "The w is silent."
+
+  - word: wrist
+    ipa: "/rɪst/"
+    meaning_es: "muñeca (parte del cuerpo)"
+    example_en: "My wrist hurts after typing all day."
+    example_es: "Me duele la muñeca después de escribir todo el día."
+    note: "The w is silent."
+
+  - word: answer
+    ipa: "/ˈænsər/"
+    meaning_es: "respuesta; responder"
+    example_en: "The answer is on the next page."
+    example_es: "La respuesta está en la siguiente página."
+    note: "The w is silent."
+
+  - word: sword
+    ipa: "/sɔːrd/"
+    meaning_es: "espada"
+    example_en: "The knight carried a silver sword."
+    example_es: "El caballero llevaba una espada plateada."
+    note: "The w is silent."
+
+  - word: two
+    ipa: "/tuː/"
+    meaning_es: "dos"
+    example_en: "She has two cats."
+    example_es: "Ella tiene dos gatos."
+    note: "The w is silent."
+
+  - word: whole
+    ipa: "/hoʊl/"
+    meaning_es: "entero; completo"
+    example_en: "Read the whole sentence before answering."
+    example_es: "Lee la oración completa antes de responder."
+    note: "The w is silent."
+
+  - word: who
+    ipa: "/huː/"
+    meaning_es: "quién"
+    example_en: "Who called you this morning?"
+    example_es: "¿Quién te llamó esta mañana?"
+    note: "The w is silent; start with an h sound."
+
+  - word: honest
+    ipa: "/ˈɑːnɪst/"
+    meaning_es: "honesto; sincero"
+    example_en: "Please give me an honest opinion."
+    example_es: "Por favor dame una opinión honesta."
+    note: "The h is silent."
+
+  - word: hour
+    ipa: "/ˈaʊər/"
+    meaning_es: "hora"
+    example_en: "The meeting lasted one hour."
+    example_es: "La reunión duró una hora."
+    note: "The h is silent."
+
+  - word: honor
+    ipa: "/ˈɑːnər/"
+    meaning_es: "honor; honrar"
+    example_en: "It is an honor to work with this team."
+    example_es: "Es un honor trabajar con este equipo."
+    note: "The h is silent."
+
+  - word: heir
+    ipa: "/er/"
+    meaning_es: "heredero; heredera"
+    example_en: "She is the heir to the family business."
+    example_es: "Ella es la heredera del negocio familiar."
+    note: "The h is silent."
+
+  - word: rhyme
+    ipa: "/raɪm/"
+    meaning_es: "rima; rimar"
+    example_en: "Time and rhyme sound similar."
+    example_es: "Time y rhyme suenan parecido."
+    note: "The h is silent."
+
+  - word: rhythm
+    ipa: "/ˈrɪðəm/"
+    meaning_es: "ritmo"
+    example_en: "This song has a steady rhythm."
+    example_es: "Esta canción tiene un ritmo constante."
+    note: "The h is silent."
+
+  - word: debt
+    ipa: "/det/"
+    meaning_es: "deuda"
+    example_en: "The company paid its debt early."
+    example_es: "La empresa pagó su deuda antes de tiempo."
+    note: "The b is silent."
+
+  - word: lamb
+    ipa: "/læm/"
+    meaning_es: "cordero"
+    example_en: "The lamb followed its mother."
+    example_es: "El cordero siguió a su madre."
+    note: "The b is silent."
+
+  - word: climb
+    ipa: "/klaɪm/"
+    meaning_es: "subir; escalar"
+    example_en: "They climb the hill every weekend."
+    example_es: "Ellos suben la colina cada fin de semana."
+    note: "The b is silent."
+
+  - word: thumb
+    ipa: "/θʌm/"
+    meaning_es: "pulgar"
+    example_en: "Press the button with your thumb."
+    example_es: "Presiona el botón con el pulgar."
+    note: "The b is silent."
+
+  - word: comb
+    ipa: "/koʊm/"
+    meaning_es: "peine; peinar"
+    example_en: "She keeps a comb in her bag."
+    example_es: "Ella guarda un peine en su bolsa."
+    note: "The b is silent."
+
+  - word: listen
+    ipa: "/ˈlɪsən/"
+    meaning_es: "escuchar"
+    example_en: "Listen carefully to the pronunciation."
+    example_es: "Escucha con atención la pronunciación."
+    note: "The t is silent."
+
+  - word: castle
+    ipa: "/ˈkæsəl/"
+    meaning_es: "castillo"
+    example_en: "The old castle is near the river."
+    example_es: "El castillo antiguo está cerca del río."
+    note: "The t is silent."
+
+  - word: Christmas
+    ipa: "/ˈkrɪsməs/"
+    meaning_es: "Navidad"
+    example_en: "We visit our family at Christmas."
+    example_es: "Visitamos a nuestra familia en Navidad."
+    note: "The t is silent."
+
+  - word: soften
+    ipa: "/ˈsɔːfən/"
+    meaning_es: "suavizar; ablandar"
+    example_en: "Warm water can soften the butter."
+    example_es: "El agua tibia puede ablandar la mantequilla."
+    note: "The t is usually silent in American English."
+
+  - word: island
+    ipa: "/ˈaɪlənd/"
+    meaning_es: "isla"
+    example_en: "The island has beautiful beaches."
+    example_es: "La isla tiene playas hermosas."
+    note: "The s is silent."
+
+  - word: aisle
+    ipa: "/aɪl/"
+    meaning_es: "pasillo"
+    example_en: "The cereal is in the next aisle."
+    example_es: "El cereal está en el siguiente pasillo."
+    note: "The s is silent."
+
+  - word: should
+    ipa: "/ʃʊd/"
+    meaning_es: "debería; deberías"
+    example_en: "You should practice these words out loud."
+    example_es: "Deberías practicar estas palabras en voz alta."
+    note: "The l is silent."
