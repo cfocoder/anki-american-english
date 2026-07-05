@@ -1,0 +1,152 @@
+deck:
+  name: American English Pronunciation - Starter Words
+  variant: en-US
+  voice: en-US-JennyNeural
+  description: American English vocabulary cards with normal and slower pronunciation audio.
+words:
+  - word: routes
+    ipa: /ruːts/; also /raʊts/ in AmE
+    meaning_es: rutas; caminos; rutas de red
+    example_en: The packets follow different routes through the network.
+    example_es: Los paquetes siguen diferentes rutas a través de la red.
+    note: In American English, both pronunciations exist. In networking/tech, /ruːts/ is very common.
+
+  - word: vulnerability
+    ipa: /ˌvʌlnərəˈbɪləti/
+    meaning_es: vulnerabilidad
+    example_en: The report found a serious vulnerability in the application.
+    example_es: El reporte encontró una vulnerabilidad grave en la aplicación.
+
+  - word: unfortunately
+    ipa: /ʌnˈfɔːrtʃənətli/
+    meaning_es: desafortunadamente
+    example_en: Unfortunately, the server was unavailable during the test.
+    example_es: Desafortunadamente, el servidor no estuvo disponible durante la prueba.
+
+  - word: versatile
+    ipa: /ˈvɜːrsətl/
+    meaning_es: versátil
+    example_en: Python is a versatile language for data analysis.
+    example_es: Python es un lenguaje versátil para análisis de datos.
+
+  - word: fortunately
+    ipa: /ˈfɔːrtʃənətli/
+    meaning_es: afortunadamente
+    example_en: Fortunately, we had a recent backup.
+    example_es: Afortunadamente, teníamos un respaldo reciente.
+
+  - word: literally
+    ipa: /ˈlɪtərəli/
+    meaning_es: literalmente
+    example_en: The script literally deletes every temporary file.
+    example_es: El script literalmente elimina cada archivo temporal.
+
+  - word: literature
+    ipa: /ˈlɪtərətʃər/
+    meaning_es: literatura; bibliografía académica
+    example_en: The literature suggests several ways to evaluate language models.
+    example_es: La literatura sugiere varias formas de evaluar modelos de lenguaje.
+
+  - word: infectious
+    ipa: /ɪnˈfekʃəs/
+    meaning_es: infeccioso; contagioso
+    example_en: The disease is highly infectious.
+    example_es: La enfermedad es altamente infecciosa.
+
+  - word: particularly
+    ipa: /pərˈtɪkjələrli/
+    meaning_es: particularmente; especialmente
+    example_en: This approach is particularly useful for small datasets.
+    example_es: Este enfoque es particularmente útil para conjuntos de datos pequeños.
+
+  - word: antigravity
+    ipa: /ˌæntiˈɡrævəti/
+    meaning_es: antigravedad
+    example_en: The story imagines a machine with antigravity technology.
+    example_es: La historia imagina una máquina con tecnología de antigravedad.
+
+  - word: comfortable
+    ipa: /ˈkʌmftərbəl/
+    meaning_es: cómodo; confortable
+    example_en: Make sure you are comfortable before the long meeting starts.
+    example_es: Asegúrate de estar cómodo antes de que empiece la reunión larga.
+
+  - word: originally
+    ipa: /əˈrɪdʒənəli/
+    meaning_es: originalmente
+    example_en: The project was originally designed for internal use.
+    example_es: El proyecto fue diseñado originalmente para uso interno.
+
+  - word: either
+    ipa: /ˈiːðər/; also /ˈaɪðər/
+    meaning_es: cualquiera de los dos; tampoco (con not)
+    example_en: Either option would work for this prototype.
+    example_es: Cualquiera de las dos opciones funcionaría para este prototipo.
+    note: Both /ˈiːðər/ and /ˈaɪðər/ are accepted in American English.
+
+  - word: organization
+    ipa: /ˌɔːrɡənəˈzeɪʃən/
+    meaning_es: organización
+    example_en: The organization publishes open datasets every month.
+    example_es: La organización publica datos abiertos cada mes.
+
+  - word: profitable
+    ipa: /ˈprɑːfɪtəbəl/
+    meaning_es: rentable; lucrativo
+    example_en: The company became profitable after two years.
+    example_es: La empresa se volvió rentable después de dos años.
+
+  - word: despicable
+    ipa: /dɪˈspɪkəbəl/
+    meaning_es: despreciable
+    example_en: The character made a despicable decision.
+    example_es: El personaje tomó una decisión despreciable.
+
+  - word: delusional
+    ipa: /dɪˈluːʒənəl/
+    meaning_es: delirante; fuera de la realidad
+    example_en: It would be delusional to ignore the evidence.
+    example_es: Sería delirante ignorar la evidencia.
+
+  - word: doubt
+    ipa: /daʊt/
+    meaning_es: duda; dudar
+    example_en: I doubt the model can answer that without context.
+    example_es: Dudo que el modelo pueda responder eso sin contexto.
+    note: The b is silent.
+
+  - word: utterly
+    ipa: /ˈʌtərli/
+    meaning_es: completamente; absolutamente
+    example_en: The explanation was utterly convincing.
+    example_es: La explicación fue completamente convincente.
+
+  - word: brought
+    ipa: /brɔːt/
+    meaning_es: trajo; traído
+    example_en: She brought her laptop to the workshop.
+    example_es: Ella trajo su laptop al taller.
+
+  - word: obliterate
+    ipa: /əˈblɪtəreɪt/
+    meaning_es: destruir por completo; borrar
+    example_en: The command can obliterate the entire directory.
+    example_es: El comando puede destruir por completo todo el directorio.
+
+  - word: unhinged
+    ipa: /ʌnˈhɪndʒd/
+    meaning_es: desquiciado; fuera de control
+    example_en: The comment sounded completely unhinged.
+    example_es: El comentario sonó completamente desquiciado.
+
+  - word: jewelry
+    ipa: /ˈdʒuːəlri/
+    meaning_es: joyería; alhajas
+    example_en: She keeps her jewelry in a small wooden box.
+    example_es: Ella guarda su joyería en una pequeña caja de madera.
+
+  - word: depth
+    ipa: /depθ/
+    meaning_es: profundidad
+    example_en: The analysis lacks depth.
+    example_es: El análisis carece de profundidad.

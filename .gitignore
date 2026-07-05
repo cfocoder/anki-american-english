@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+.collection_check.anki2
+.DS_Store
