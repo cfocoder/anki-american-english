@@ -366,3 +366,73 @@ words:
     example_en: "You should practice these words out loud."
     example_es: "Deberías practicar estas palabras en voz alta."
     note: "The l is silent."
+
+  - word: often
+    ipa: "/ˈɔːfən/; also /ˈɔːftən/"
+    meaning_es: "a menudo; frecuentemente"
+    example_en: "I often review new words before breakfast."
+    example_es: "A menudo repaso palabras nuevas antes del desayuno."
+    note: "The t is often silent in American English; /ˈɔːfən/ is very common."
+
+  - word: fasten
+    ipa: "/ˈfæsən/"
+    meaning_es: "abrochar; sujetar"
+    example_en: "Please fasten your seat belt."
+    example_es: "Por favor abróchate el cinturón de seguridad."
+    note: "The t is silent."
+
+  - word: hasten
+    ipa: "/ˈheɪsən/"
+    meaning_es: "apresurarse; acelerar"
+    example_en: "We should not hasten the decision."
+    example_es: "No deberíamos apresurar la decisión."
+    note: "The t is silent."
+
+  - word: moisten
+    ipa: "/ˈmɔɪsən/"
+    meaning_es: "humedecer"
+    example_en: "Moisten the cloth before cleaning the screen."
+    example_es: "Humedece el paño antes de limpiar la pantalla."
+    note: "The t is silent."
+
+  - word: glisten
+    ipa: "/ˈɡlɪsən/"
+    meaning_es: "brillar; relucir"
+    example_en: "The streets glisten after the rain."
+    example_es: "Las calles brillan después de la lluvia."
+    note: "The t is silent."
+
+  - word: whistle
+    ipa: "/ˈwɪsəl/"
+    meaning_es: "silbato; silbar"
+    example_en: "The referee blew the whistle."
+    example_es: "El árbitro tocó el silbato."
+    note: "The t is silent."
+
+  - word: wrestle
+    ipa: "/ˈresəl/"
+    meaning_es: "luchar; forcejear"
+    example_en: "They wrestle with difficult grammar rules."
+    example_es: "Ellos batallan con reglas gramaticales difíciles."
+    note: "The t is silent. The w is also silent."
+
+  - word: mortgage
+    ipa: "/ˈmɔːrɡɪdʒ/"
+    meaning_es: "hipoteca"
+    example_en: "They applied for a mortgage last week."
+    example_es: "Solicitaron una hipoteca la semana pasada."
+    note: "The t is silent."
+
+  - word: rapport
+    ipa: "/ræˈpɔːr/"
+    meaning_es: "buena relación; conexión"
+    example_en: "The teacher built rapport with the students."
+    example_es: "El maestro creó una buena relación con los estudiantes."
+    note: "The final t is silent."
+
+  - word: depot
+    ipa: "/ˈdiːpoʊ/"
+    meaning_es: "depósito; estación; almacén"
+    example_en: "The package arrived at the depot this morning."
+    example_es: "El paquete llegó al depósito esta mañana."
+    note: "The final t is silent."
