@@ -443,3 +443,66 @@ words:
     example_en: "The country defended its sovereignty."
     example_es: "El país defendió su soberanía."
     note: "The e after v is silent in the common American pronunciation; say it like “SAH-vruhn-tee.”"
+
+  - word: turtle
+    ipa: "/ˈtɝːtəl/"
+    meaning_es: "tortuga"
+    example_en: "The turtle moved slowly across the road."
+    example_es: "La tortuga cruzó lentamente la carretera."
+    note: "The final e is silent; it only affects the spelling, not the sound."
+
+  - word: awkward
+    ipa: "/ˈɔːkwərd/"
+    meaning_es: "incómodo; torpe; raro"
+    example_en: "The first conversation felt awkward."
+    example_es: "La primera conversación se sintió incómoda."
+    note: "The w after a is not pronounced as a separate /w/ sound in common American pronunciation."
+
+  - word: yacht
+    ipa: "/jɑːt/"
+    meaning_es: "yate"
+    example_en: "They rented a yacht for the weekend."
+    example_es: "Rentaron un yate para el fin de semana."
+    note: "The ch is silent; pronounce it like “yaht.”"
+
+  - word: debris
+    ipa: "/dəˈbriː/"
+    meaning_es: "escombros; restos"
+    example_en: "The storm left debris in the street."
+    example_es: "La tormenta dejó escombros en la calle."
+    note: "The final s is silent."
+
+  - word: Arkansas
+    ipa: "/ˈɑːrkənsɔː/"
+    meaning_es: "Arkansas"
+    example_en: "Arkansas is a state in the southern United States."
+    example_es: "Arkansas es un estado del sur de Estados Unidos."
+    note: "The final s is silent; pronounce the ending like “saw.”"
+
+  - word: phenomenon
+    ipa: "/fəˈnɑːməˌnɑːn/"
+    meaning_es: "fenómeno"
+    example_en: "The researchers studied the phenomenon carefully."
+    example_es: "Los investigadores estudiaron el fenómeno cuidadosamente."
+    note: "The ph sounds like /f/; do not pronounce it as /p/ + /h/."
+
+  - word: Connecticut
+    ipa: "/kəˈnetɪkət/"
+    meaning_es: "Connecticut"
+    example_en: "Connecticut is known for its coastal towns."
+    example_es: "Connecticut es conocido por sus pueblos costeros."
+    note: "The second c is silent; pronounce it like “kuh-NET-i-kut.”"
+
+  - word: naive
+    ipa: "/naɪˈiːv/"
+    meaning_es: "ingenuo; inocente"
+    example_en: "It was naive to trust the message without checking it."
+    example_es: "Fue ingenuo confiar en el mensaje sin revisarlo."
+    note: "Pronounce both vowel sounds: /naɪˈiːv/. The final e is sounded here, unlike many English words."
+
+  - word: bourbon
+    ipa: "/ˈbɝːbən/"
+    meaning_es: "bourbon; whisky estadounidense"
+    example_en: "Bourbon is often made in Kentucky."
+    example_es: "El bourbon se produce a menudo en Kentucky."
+    note: "The second o is reduced to a schwa /ə/; do not pronounce it like “bon.”"
