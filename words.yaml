@@ -436,3 +436,10 @@ words:
     example_en: "The package arrived at the depot this morning."
     example_es: "El paquete llegó al depósito esta mañana."
     note: "The final t is silent."
+
+  - word: sovereignty
+    ipa: "/ˈsɑːvrənti/"
+    meaning_es: "soberanía"
+    example_en: "The country defended its sovereignty."
+    example_es: "El país defendió su soberanía."
+    note: "The e after v is silent in the common American pronunciation; say it like “SAH-vruhn-tee.”"
