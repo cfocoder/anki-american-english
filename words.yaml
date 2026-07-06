@@ -737,3 +737,10 @@ words:
     example_en: "Be careful: “sock” should not sound like “suck.”"
     example_es: "Ten cuidado: “sock” no debe sonar como “suck.”"
     note: "Potentially vulgar or rude word. The vowel is /ʌ/, not /ɑː/ as in “sock.”"
+
+  - word: cache
+    ipa: "/kæʃ/"
+    meaning_es: "caché; memoria caché; almacenamiento temporal"
+    example_en: "Clear the browser cache before reloading the page."
+    example_es: "Limpia el caché del navegador antes de recargar la página."
+    note: "Pronounced like “cash” /kæʃ/. The final e is silent; do not say “caché.”"
