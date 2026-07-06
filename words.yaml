@@ -513,3 +513,31 @@ words:
     example_en: "The city became infamous for its traffic jams."
     example_es: "La ciudad se volvió tristemente célebre por sus embotellamientos."
     note: "The second a is reduced to a schwa /ə/; do not pronounce it like the Spanish “a.”"
+
+  - word: focus
+    ipa: "/ˈfoʊkəs/"
+    meaning_es: "enfoque; concentrarse"
+    example_en: "Please focus on the first vowel sound."
+    example_es: "Por favor concéntrate en el sonido de la primera vocal."
+    note: "Say /foʊ/ with the GOAT vowel. Do not reduce it to /fʌ/ or it can sound like the vulgar phrase “fuck us.”"
+
+  - word: fuck us
+    ipa: "/ˈfʌk əs/"
+    meaning_es: "frase vulgar: que nos jodan"
+    example_en: "Be careful: “focus” should not sound like “fuck us.”"
+    example_es: "Ten cuidado: “focus” no debe sonar como “fuck us.”"
+    note: "Vulgar phrase. The vowel is /ʌ/ as in STRUT, not /oʊ/ as in “focus.”"
+
+  - word: Doug
+    ipa: "/dʌɡ/"
+    meaning_es: "Doug; nombre propio masculino"
+    example_en: "Doug will join the meeting at noon."
+    example_es: "Doug se unirá a la reunión al mediodía."
+    note: "Use the /ʌ/ vowel as in “cup.” Do not pronounce it like “dog.”"
+
+  - word: dog
+    ipa: "/dɔːɡ/; also /dɑːɡ/ in many American accents"
+    meaning_es: "perro"
+    example_en: "The dog is sleeping under the table."
+    example_es: "El perro está durmiendo debajo de la mesa."
+    note: "Use the THOUGHT/PALM vowel, depending on accent. It should not sound like “Doug” /dʌɡ/."
