@@ -541,3 +541,17 @@ words:
     example_en: "The dog is sleeping under the table."
     example_es: "El perro está durmiendo debajo de la mesa."
     note: "Use the THOUGHT/PALM vowel, depending on accent. It should not sound like “Doug” /dʌɡ/."
+
+  - word: throughput
+    ipa: "/ˈθruːpʊt/"
+    meaning_es: "rendimiento; tasa de procesamiento; cantidad procesada por unidad de tiempo"
+    example_en: "The new pipeline improved data throughput significantly."
+    example_es: "El nuevo pipeline mejoró significativamente el rendimiento de procesamiento de datos."
+    note: "The gh in through is silent. Start with /θr/ as in “through,” not /tr/ or /t/. The second syllable sounds like “put” /pʊt/."
+
+  - word: iteratively
+    ipa: "/ˈɪtərətɪvli/; also /ˈɪtəreɪtɪvli/"
+    meaning_es: "iterativamente; de forma repetida y mejorando paso a paso"
+    example_en: "We improved the prompt iteratively after each test."
+    example_es: "Mejoramos el prompt iterativamente después de cada prueba."
+    note: "Stress the first syllable: /ˈɪt-/. The middle vowels are weak; do not pronounce every written vowel like Spanish."
