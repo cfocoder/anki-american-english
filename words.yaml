@@ -555,3 +555,185 @@ words:
     example_en: "We improved the prompt iteratively after each test."
     example_es: "Mejoramos el prompt iterativamente después de cada prueba."
     note: "Stress the first syllable: /ˈɪt-/. The middle vowels are weak; do not pronounce every written vowel like Spanish."
+
+  - word: sheet
+    ipa: "/ʃiːt/"
+    meaning_es: "hoja; sábana; hoja de cálculo"
+    example_en: "Please update the sheet before the meeting."
+    example_es: "Por favor actualiza la hoja antes de la reunión."
+    note: "Use the long /iː/ vowel. If you shorten it to /ɪ/, it can sound like the vulgar word “shit” /ʃɪt/."
+
+  - word: shit
+    ipa: "/ʃɪt/"
+    meaning_es: "mierda; palabra vulgar"
+    example_en: "Be careful: “sheet” should not sound like “shit.”"
+    example_es: "Ten cuidado: “sheet” no debe sonar como “shit.”"
+    note: "Vulgar word. The vowel is short /ɪ/, not long /iː/ as in “sheet.”"
+
+  - word: beach
+    ipa: "/biːtʃ/"
+    meaning_es: "playa"
+    example_en: "We walked along the beach in the morning."
+    example_es: "Caminamos por la playa en la mañana."
+    note: "Use long /iː/. If you say short /ɪ/, it can sound like the insulting word “bitch” /bɪtʃ/."
+
+  - word: bitch
+    ipa: "/bɪtʃ/"
+    meaning_es: "insulto vulgar; perra"
+    example_en: "Be careful: “beach” should not sound like “bitch.”"
+    example_es: "Ten cuidado: “beach” no debe sonar como “bitch.”"
+    note: "Vulgar/insulting word. The vowel is short /ɪ/, not long /iː/ as in “beach.”"
+
+  - word: piece
+    ipa: "/piːs/"
+    meaning_es: "pieza; pedazo"
+    example_en: "I need one more piece of information."
+    example_es: "Necesito una pieza más de información."
+    note: "Use long /iː/ and final /s/. If the vowel becomes short /ɪ/, it can sound like the vulgar word “piss” /pɪs/."
+
+  - word: piss
+    ipa: "/pɪs/"
+    meaning_es: "orinar; orina; palabra vulgar"
+    example_en: "Be careful: “piece” should not sound like “piss.”"
+    example_es: "Ten cuidado: “piece” no debe sonar como “piss.”"
+    note: "Vulgar word. The vowel is short /ɪ/, not long /iː/ as in “piece” or “peace.”"
+
+  - word: sit
+    ipa: "/sɪt/"
+    meaning_es: "sentarse"
+    example_en: "Please sit near the front."
+    example_es: "Por favor siéntate cerca del frente."
+    note: "Start with /s/. If you add /ʃ/ at the start, it can sound like the vulgar word “shit” /ʃɪt/."
+
+  - word: six
+    ipa: "/sɪks/"
+    meaning_es: "seis"
+    example_en: "The meeting starts at six."
+    example_es: "La reunión empieza a las seis."
+    note: "End with /ks/. If you drop the /k/, it can sound like “sex” /seks/."
+
+  - word: sex
+    ipa: "/seks/"
+    meaning_es: "sexo"
+    example_en: "Be careful: “six” should keep the /k/ sound and not sound like “sex.”"
+    example_es: "Ten cuidado: “six” debe conservar el sonido /k/ y no sonar como “sex.”"
+    note: "Sensitive word. The vowel is /e/ and the ending is /ks/; compare it carefully with “six” /sɪks/."
+
+  - word: fork
+    ipa: "/fɔːrk/"
+    meaning_es: "tenedor; bifurcación; fork de código"
+    example_en: "Create a fork of the repository before changing the code."
+    example_es: "Crea un fork del repositorio antes de cambiar el código."
+    note: "Use the /ɔːr/ sound and final /rk/. If the vowel changes to /ʌ/ and the /r/ disappears, it can sound like “fuck” /fʌk/."
+
+  - word: fuck
+    ipa: "/fʌk/"
+    meaning_es: "palabra vulgar; joder"
+    example_en: "Be careful: “fork” should not sound like “fuck.”"
+    example_es: "Ten cuidado: “fork” no debe sonar como “fuck.”"
+    note: "Very vulgar word. The vowel is /ʌ/ and there is no /r/ sound, unlike “fork” /fɔːrk/."
+
+  - word: public
+    ipa: "/ˈpʌblɪk/"
+    meaning_es: "público"
+    example_en: "The dataset is public."
+    example_es: "El conjunto de datos es público."
+    note: "Keep the /l/ in the first syllable: /ˈpʌb-lɪk/. Without it, it can sound like “pubic” /ˈpjuːbɪk/."
+
+  - word: pubic
+    ipa: "/ˈpjuːbɪk/"
+    meaning_es: "púbico"
+    example_en: "Be careful: “public” should not sound like “pubic.”"
+    example_es: "Ten cuidado: “public” no debe sonar como “pubic.”"
+    note: "Sensitive anatomical word. It has /pjuː/ and no /l/ after /b/, unlike “public.”"
+
+  - word: count
+    ipa: "/kaʊnt/"
+    meaning_es: "contar; conteo"
+    example_en: "Count the number of rows in the table."
+    example_es: "Cuenta el número de filas en la tabla."
+    note: "Use the diphthong /aʊ/ and pronounce the final /t/. If the vowel becomes /ʌ/, it can sound like the very offensive word “cunt” /kʌnt/."
+
+  - word: cunt
+    ipa: "/kʌnt/"
+    meaning_es: "insulto muy ofensivo; palabra vulgar"
+    example_en: "Be careful: “count” should not sound like “cunt.”"
+    example_es: "Ten cuidado: “count” no debe sonar como “cunt.”"
+    note: "Very offensive word. The vowel is /ʌ/, not /aʊ/ as in “count.”"
+
+  - word: third
+    ipa: "/θɝːd/"
+    meaning_es: "tercero"
+    example_en: "The third option is the safest."
+    example_es: "La tercera opción es la más segura."
+    note: "Start with /θ/ as in “think.” If you replace it with /t/, it can sound like “turd” /tɝːd/."
+
+  - word: turd
+    ipa: "/tɝːd/"
+    meaning_es: "excremento; insulto vulgar leve"
+    example_en: "Be careful: “third” should start with /θ/, not /t/ like “turd.”"
+    example_es: "Ten cuidado: “third” debe empezar con /θ/, no con /t/ como “turd.”"
+    note: "Vulgar/mildly insulting word. The first sound is /t/, unlike “third” /θɝːd/."
+
+  - word: thick
+    ipa: "/θɪk/"
+    meaning_es: "grueso; espeso"
+    example_en: "The report has a thick appendix."
+    example_es: "El reporte tiene un apéndice grueso."
+    note: "Start with /θ/. If you pronounce it as /d/, it can sound like the vulgar slang word “dick” /dɪk/."
+
+  - word: dick
+    ipa: "/dɪk/"
+    meaning_es: "pene; insulto vulgar"
+    example_en: "Be careful: “thick” should not sound like “dick.”"
+    example_es: "Ten cuidado: “thick” no debe sonar como “dick.”"
+    note: "Vulgar slang. It starts with /d/, not /θ/ as in “thick.”"
+
+  - word: deck
+    ipa: "/dek/"
+    meaning_es: "baraja; terraza; presentación/deck"
+    example_en: "Send me the slide deck after the call."
+    example_es: "Envíame la presentación después de la llamada."
+    note: "Use /e/ as in “dress.” If you use /ɪ/, it can sound like the vulgar slang word “dick” /dɪk/."
+
+  - word: peanuts
+    ipa: "/ˈpiːnʌts/"
+    meaning_es: "cacahuates; maníes"
+    example_en: "The snack contains peanuts."
+    example_es: "El refrigerio contiene cacahuates."
+    note: "Stress the first syllable and keep the final /ts/. If the ending is reduced badly, it can sound like “penis” /ˈpiːnɪs/."
+
+  - word: penis
+    ipa: "/ˈpiːnɪs/"
+    meaning_es: "pene"
+    example_en: "Be careful: “peanuts” should not sound like “penis.”"
+    example_es: "Ten cuidado: “peanuts” no debe sonar como “penis.”"
+    note: "Anatomical word. The ending is /nɪs/, not /nʌts/ as in “peanuts.”"
+
+  - word: ask
+    ipa: "/æsk/"
+    meaning_es: "preguntar; pedir"
+    example_en: "Ask a question if anything is unclear."
+    example_es: "Haz una pregunta si algo no queda claro."
+    note: "Pronounce the final /sk/. If you drop the /k/, it can sound like “ass” /æs/."
+
+  - word: ass
+    ipa: "/æs/"
+    meaning_es: "trasero; idiota; palabra vulgar"
+    example_en: "Be careful: “ask” should end with /sk/, not sound like “ass.”"
+    example_es: "Ten cuidado: “ask” debe terminar en /sk/, no sonar como “ass.”"
+    note: "Vulgar word. It ends in /s/, unlike “ask” /æsk/ with final /k/."
+
+  - word: sock
+    ipa: "/sɑːk/"
+    meaning_es: "calcetín"
+    example_en: "I found one sock under the bed."
+    example_es: "Encontré un calcetín debajo de la cama."
+    note: "Use /ɑː/ as in many American pronunciations of “father.” If the vowel becomes /ʌ/, it can sound like “suck” /sʌk/."
+
+  - word: suck
+    ipa: "/sʌk/"
+    meaning_es: "chupar; apestar; palabra potencialmente vulgar según contexto"
+    example_en: "Be careful: “sock” should not sound like “suck.”"
+    example_es: "Ten cuidado: “sock” no debe sonar como “suck.”"
+    note: "Potentially vulgar or rude word. The vowel is /ʌ/, not /ɑː/ as in “sock.”"
